@@ -1,4 +1,4 @@
-<h1>Deployed Website: </h1>https://crypto-app-three-self.vercel.app/cryptocurrencies
+<h1>Deployed Website: </h1>https://crypto-app-aanya74282.vercel.app/
 
 <h1 align="center">Cryptoverse</h1>
  <!-- TABLE OF CONTENTS -->
