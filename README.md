@@ -1,4 +1,4 @@
-<h1>Deployed Website: </h1>https://crypto-app-aanya74282.vercel.app/
+<h1>Deployed Website: </h1>https://crypto-app-three-self.vercel.app/cryptocurrencies
 
 <h1 align="center">Cryptoverse</h1>
  <!-- TABLE OF CONTENTS -->
@@ -6,21 +6,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about the project">About The Project</a>
+      <a href="#about the project">ABOUT THE PROJECT</a>
       <ul>
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
       </ul>
     </li>
     <li>
-      <a href="#functionalities">Functionalities of webApp</a>
+      <a href="#functionalities">FUNCTIONALITIES of webApp</a>
       <ul>
         <li><a href="#home">Home</a></li>
         <li><a href="#cryptocurrencies">Cryptocurrencies</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">GETTING STARTED</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -34,7 +34,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## ABOUT THE PROJECT
 * As the cryptocurrency have been the talk of the town lately so I decided to built a webApp wherein a user can get all the crypto related information at one place .
 * This app contains various information like top 10 cyrptocurrencies,global crypto stats etc.
 * User can view the price chart of the respective cryptocurrency.
@@ -51,7 +51,7 @@ Laptops,Desktops and mobile phone.
 
 <!-- FUNCTIONALITIES -->
 
-## Functionalities
+## FUNCTIONALITIES
 1. Homepage
 2. Cryptocurrencies Page
 
@@ -66,7 +66,7 @@ Laptops,Desktops and mobile phone.
 
 <!-- INSTALLATIONS -->
 
-## Getting Started
+## GETTING STARTED
 To install and run the project on your local system, clone this repo to your local machine and open command prompt and go to that path:
 
 ### Installation
@@ -80,7 +80,4 @@ To separately run the application on your local host,run the following command:
 ```sh
   npm run start.
 ```
-
-
-
 
